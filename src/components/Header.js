@@ -6,7 +6,7 @@ import { startLogout } from '../actions/auth'
 
 export const Header = ({ startLogout }) => {
 
-    const [test1, test2] = useState(0)
+    // const [test1, test2] = useState(0)
     return (
         <header className="header">
             <div className = "content-container">
